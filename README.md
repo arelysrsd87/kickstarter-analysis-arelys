@@ -10,7 +10,7 @@ Main takeaways are:
 ## Recommendations
 We hearby recommend to launch a theater campaign between the months of May-June with a goal of $5,000. Campaign should last no longer than two months.
 ## Relevant files
-- [Theater Outcomes in US](https://github.com/arelysrsd87/kickstarter-analysis-arelys/blob/main/Theater%20Outcomes%20in%20US.png).
+- ![Theater Outcomes in US](https://github.com/arelysrsd87/kickstarter-analysis-arelys/blob/main/Theater%20Outcomes%20in%20US.png).
 - [Plays Outcomes in US](https://github.com/arelysrsd87/kickstarter-analysis-arelys/blob/main/Plays%20Outcomes%20in%20US.png).
 - [Date Created Outcomes in US](https://github.com/arelysrsd87/kickstarter-analysis-arelys/blob/main/Date%20Created%20Outcomes%20in%20US.png).
 - [Descriptive Statistics for Successful and Failed theater Campaigns in US](https://github.com/arelysrsd87/kickstarter-analysis-arelys/blob/main/Descriptive%20Statistics%20for%20Successful%20and%20Failed%20theater%20campaigns%20in%20US.png).
